@@ -1,0 +1,501 @@
+Order ID,Date,Customer Name,Product Category,Product Name,Quantity Sold,Unit Price,Total Sales,Payment Method,City
+1,04-05-2024,James Mendoza,Furniture,Wardrobe,7,346,2419,Credit Card,Youngtown
+2,15-07-2023,Tammy Lambert,Electronics,Smartwatch,8,727,5817,Credit Card,North William
+3,25-01-2024,Mckenzie Jennings,Furniture,Bed,10,871,8707,PayPal,West Seanchester
+4,17-02-2024,Joshua Johnson,Clothing,Sweater,6,173,1036,Debit Card,Nelsonfurt
+5,01-12-2024,Larry Fuentes,Books,Technology,9,914,8225,Net Banking,North Donnachester
+6,17-10-2024,Katherine Hamilton,Clothing,Jeans,9,595,5359,Net Banking,East Emilyberg
+7,21-01-2024,Nicole Little,Home Appliances,Refrigerator,10,592,5925,Debit Card,West Charles
+8,23-12-2023,Marvin Evans,Clothing,Sweater,6,713,4279,Cash on Delivery,West Morgan
+9,18-04-2024,Karen Ramos,Furniture,Bed,10,844,8438,Net Banking,North Cynthia
+10,28-02-2024,Louis Clark,Furniture,Chair,1,564,564,PayPal,Kimtown
+11,04-11-2024,Lauren Ramirez DDS,Clothing,T-Shirt,9,722,6500,Net Banking,New Katiestad
+12,31-07-2023,Monica Schwartz,Furniture,Chair,7,95,668,PayPal,Douglasmouth
+13,03-07-2024,Robert Bailey,Furniture,Bed,8,363,2905,Cash on Delivery,East Curtismouth
+14,05-10-2023,Shelly Jones,Electronics,Headphones,4,468,1871,Cash on Delivery,East Don
+15,09-10-2023,Christina Wilson,Home Appliances,Washing Machine,10,530,5302,Debit Card,Gregorymouth
+16,22-07-2024,Jill Mcdonald,Electronics,Headphones,6,509,3052,PayPal,New Carol
+17,10-11-2024,Jessica Sullivan,Clothing,Shoes,9,93,836,Cash on Delivery,East Melissa
+18,06-02-2024,Ryan Roberson,Clothing,Jacket,9,940,8457,Debit Card,Coxhaven
+19,15-12-2024,Michael White,Furniture,Sofa,1,953,953,Credit Card,East Travischester
+20,02-12-2024,Mrs. Jennifer Miller,Clothing,Shoes,2,599,1198,PayPal,South Felicia
+21,14-09-2024,Paul Freeman,Clothing,Shoes,8,614,4912,Debit Card,Anneburgh
+22,13-12-2023,Anthony Raymond,Electronics,Smartphone,7,854,5979,Debit Card,North Williamberg
+23,20-09-2023,Elizabeth Bailey,Clothing,Sweater,5,459,2297,Debit Card,North Deborahburgh
+24,08-07-2023,Sabrina Werner,Furniture,Bed,3,763,2290,Cash on Delivery,New Suzanneshire
+25,04-06-2024,Samantha Mcintosh,Clothing,Jeans,9,319,2871,Cash on Delivery,Lake Desireeborough
+26,01-06-2023,Alyssa Benton,Electronics,Headphones,2,789,1579,Credit Card,North Elizabethfort
+27,05-10-2024,Clayton Rios,Books,Science,5,299,1497,Net Banking,South Caleb
+28,15-06-2023,Nicholas Collins,Books,Science,5,546,2728,PayPal,Samuelburgh
+29,19-07-2023,Chad Rodriguez,Clothing,Sweater,4,513,2051,Debit Card,West Patrickton
+30,20-04-2024,Michael Martinez,Books,History,9,855,7699,PayPal,Davidville
+31,12-09-2024,James Turner,Electronics,Tablet,2,407,814,Credit Card,North Steventown
+32,04-04-2024,Jordan Scott,Home Appliances,Microwave,10,559,5587,Debit Card,Anthonyfort
+33,25-08-2024,Christine Murray,Clothing,T-Shirt,10,60,597,Cash on Delivery,South Markberg
+34,28-06-2024,Elizabeth Reid,Books,Non-fiction,7,285,1994,Net Banking,Hallville
+35,08-06-2024,Tara Mason,Furniture,Sofa,1,653,653,Credit Card,Port Jay
+36,22-03-2024,John Shepherd,Books,History,4,986,3946,Debit Card,New Michelle
+37,15-04-2023,Logan Finley,Books,History,9,191,1721,Credit Card,Angelashire
+38,01-06-2024,Heather Morris,Electronics,Laptop,5,103,516,Net Banking,New Lorifort
+39,02-05-2023,Matthew Rose,Home Appliances,Washing Machine,9,483,4349,Debit Card,East Ashleyport
+40,03-02-2024,Paul Allen,Home Appliances,Refrigerator,1,477,477,Cash on Delivery,New Anthony
+41,07-10-2023,Brianna Santiago,Furniture,Wardrobe,2,933,1867,Cash on Delivery,Garyhaven
+42,22-06-2023,Ian Harvey,Electronics,Smartphone,6,433,2600,PayPal,Jonathonstad
+43,03-10-2024,Katie Webb,Clothing,Jeans,10,981,9807,Debit Card,Cameronburgh
+44,08-06-2023,Michael Reyes,Electronics,Smartphone,1,313,313,Credit Card,Hessmouth
+45,18-12-2023,Dakota Hall,Home Appliances,Vacuum Cleaner,8,125,1002,Debit Card,Port Jamesview
+46,03-06-2024,Annette Bryant,Clothing,Sweater,5,535,2676,Debit Card,Brandymouth
+47,19-11-2023,Jennifer Schroeder,Home Appliances,Refrigerator,8,262,2100,Cash on Delivery,Fernandezshire
+48,29-12-2024,Jennifer Mcneil,Furniture,Sofa,3,823,2470,Credit Card,Jonestown
+49,16-01-2024,John Orr,Home Appliances,Vacuum Cleaner,6,88,526,PayPal,Stephenmouth
+50,15-09-2024,Suzanne Gibbs,Books,Technology,7,219,1530,Net Banking,South Ashley
+51,20-05-2024,Jason Patel,Clothing,Jeans,8,446,3571,PayPal,South Aaron
+52,11-08-2024,Amanda Clark,Electronics,Headphones,4,396,1582,PayPal,Gilbertmouth
+53,16-05-2023,Matthew Avila,Clothing,Shoes,6,531,3188,Cash on Delivery,East Sarah
+54,02-12-2024,Ryan Wright,Home Appliances,Microwave,2,111,221,PayPal,Sheenaview
+55,10-07-2024,Sean Jefferson,Clothing,Sweater,7,978,6845,Cash on Delivery,North Seanmouth
+56,14-12-2023,Austin Malone,Home Appliances,Vacuum Cleaner,6,774,4647,Cash on Delivery,Perryside
+57,24-01-2025,Harry Hamilton,Books,History,10,803,8034,Net Banking,West Adrian
+58,15-11-2023,Bill King,Clothing,Sweater,7,732,5125,Debit Card,New Joshuaton
+59,30-01-2024,Andrew Summers,Home Appliances,Refrigerator,3,865,2595,Debit Card,Phelpsside
+60,07-05-2023,Mark Jenkins,Furniture,Bed,8,302,2415,Credit Card,South Saraside
+61,26-02-2024,Bethany Haynes,Home Appliances,Vacuum Cleaner,5,444,2219,Debit Card,New Joseph
+62,07-10-2024,Ashley Boyd,Furniture,Bed,3,156,468,Credit Card,Blackburnmouth
+63,25-02-2024,Travis Flores MD,Clothing,Sweater,3,122,366,PayPal,New Marcotown
+64,28-08-2024,Emily Horton,Furniture,Sofa,6,263,1577,Net Banking,Hollyton
+65,30-07-2024,Matthew Sutton,Clothing,Jeans,3,778,2335,Net Banking,Smithport
+66,24-09-2023,Emily Nelson,Books,Science,3,845,2535,Credit Card,Johnsonfort
+67,06-09-2023,Victor Higgins,Books,Technology,8,496,3972,Net Banking,Lake Andreastad
+68,11-10-2023,Lisa Pacheco,Books,Science,5,581,2906,Debit Card,Michaelland
+69,08-03-2024,Jermaine Brown,Clothing,Sweater,2,693,1385,Debit Card,Georgefurt
+70,30-07-2024,Brittany Acosta,Home Appliances,Refrigerator,4,279,1115,Cash on Delivery,Waltersburgh
+71,31-10-2023,Jacqueline Sellers,Books,Technology,3,749,2246,PayPal,New Sherry
+72,29-08-2023,Lisa Cross,Clothing,T-Shirt,2,164,327,Debit Card,East Tracyberg
+73,01-03-2025,Shelley Martinez,Books,Fiction,3,396,1189,PayPal,West Oscar
+74,23-01-2024,Elizabeth Williams,Furniture,Wardrobe,3,560,1681,Cash on Delivery,Angelaburgh
+75,14-09-2023,Donald Moss,Electronics,Headphones,4,910,3641,PayPal,South Stephenport
+76,28-01-2025,Thomas Jenkins,Furniture,Wardrobe,4,169,678,PayPal,West Charlestown
+77,01-09-2023,Anna Murphy,Clothing,T-Shirt,4,646,2583,Net Banking,East Philipfurt
+78,13-02-2024,John Jones,Clothing,T-Shirt,9,519,4669,Debit Card,Karlbury
+79,08-09-2023,Justin Weiss,Electronics,Smartphone,2,783,1567,PayPal,Jonesfort
+80,24-06-2023,Wendy Martin,Furniture,Wardrobe,6,298,1785,Cash on Delivery,North Karen
+81,15-01-2024,Stephen Cook,Books,Non-fiction,6,193,1155,PayPal,Lake Gwendolynside
+82,15-06-2023,Mark Green,Electronics,Smartphone,2,152,304,Cash on Delivery,Matthewville
+83,21-06-2023,Nicholas Torres,Home Appliances,Vacuum Cleaner,2,385,770,Net Banking,Stefanieview
+84,21-04-2023,Cynthia Burnett,Furniture,Bed,3,998,2993,Debit Card,Heathshire
+85,26-08-2024,Mark Mccoy,Books,Non-fiction,7,347,2432,Debit Card,Christopherside
+86,10-05-2024,Colin Martin,Books,Fiction,10,353,3527,Credit Card,Nicolefort
+87,17-03-2024,Jamie Kennedy,Home Appliances,Washing Machine,10,972,9718,PayPal,West Stacyport
+88,08-02-2025,Sharon Harper,Furniture,Sofa,8,766,6125,Cash on Delivery,North Cathy
+89,03-10-2023,Kimberly Brooks,Home Appliances,Refrigerator,1,471,471,Credit Card,West Chad
+90,25-03-2024,Megan Moore,Clothing,Jeans,2,827,1654,PayPal,New Brett
+91,09-09-2023,Andre Martinez,Furniture,Table,3,451,1354,Cash on Delivery,North Rickville
+92,04-12-2023,James Ponce,Electronics,Headphones,1,613,613,Cash on Delivery,Johnburgh
+93,05-07-2024,Paul Russell,Home Appliances,Refrigerator,4,923,3693,Credit Card,Brownburgh
+94,16-08-2024,Jacob Callahan,Books,Technology,3,226,677,Credit Card,Jamesfurt
+95,01-12-2023,Jeremy Taylor,Books,Non-fiction,8,233,1864,Cash on Delivery,West Levi
+96,01-02-2025,Daniel Price,Books,Non-fiction,10,767,7666,Credit Card,Hansenfurt
+97,18-12-2024,Mario Taylor,Clothing,Sweater,2,518,1035,Net Banking,Jakefurt
+98,19-02-2025,Rachel Brown,Home Appliances,Microwave,3,517,1551,Net Banking,Michaelport
+99,14-08-2024,Jeremiah Abbott,Home Appliances,Refrigerator,8,189,1510,Credit Card,South Jenniferbury
+100,05-11-2024,Erica Thomas,Furniture,Wardrobe,1,608,608,PayPal,Moranville
+101,19-05-2024,Scott Wilkinson,Electronics,Headphones,7,367,2567,Cash on Delivery,Justinmouth
+102,11-08-2024,Kathryn Guzman,Electronics,Headphones,3,74,223,Credit Card,East Melaniemouth
+103,13-01-2024,Tanner Soto,Home Appliances,Vacuum Cleaner,2,640,1279,Credit Card,New Ronaldville
+104,12-06-2023,Michelle Wilson MD,Furniture,Bed,2,57,113,Cash on Delivery,Frankchester
+105,30-06-2023,James Williams,Books,Fiction,9,81,730,Debit Card,Moniquestad
+106,20-04-2024,Andrew Lewis,Furniture,Bed,4,343,1372,Net Banking,New Linda
+107,03-02-2025,Veronica Higgins,Books,Non-fiction,8,810,6480,Cash on Delivery,Port Samantha
+108,30-01-2025,Alejandra Miller,Electronics,Tablet,2,260,521,Credit Card,Richardsonborough
+109,20-03-2025,Jennifer Lawson,Clothing,Jeans,10,455,4546,Cash on Delivery,North Michael
+110,29-01-2024,Shawn Vasquez,Clothing,Sweater,4,730,2918,PayPal,Smithfort
+111,24-04-2023,Joseph Walters,Clothing,T-Shirt,2,773,1547,Cash on Delivery,Ryanchester
+112,14-09-2023,Jason Ware,Furniture,Wardrobe,10,884,8840,Net Banking,North Melissaburgh
+113,13-10-2023,Daniel Cantrell,Electronics,Smartphone,7,602,4213,Net Banking,Jeffreymouth
+114,15-01-2025,Rebecca Bailey,Clothing,Shoes,7,326,2280,Net Banking,Walkermouth
+115,26-04-2023,Paul Cooper,Clothing,Jacket,3,547,1640,PayPal,Stevensshire
+116,18-03-2024,Christopher Jackson,Furniture,Table,3,440,1319,PayPal,New Stephanie
+117,01-12-2023,Joseph Mcknight,Home Appliances,Air Conditioner,2,782,1564,Credit Card,Debraborough
+118,27-06-2024,Erica Espinoza,Electronics,Tablet,7,201,1406,Debit Card,Jeffreyshire
+119,13-12-2023,Warren Williams,Books,Fiction,9,54,490,Net Banking,Morafort
+120,07-12-2024,Deborah Gonzalez,Clothing,Jeans,7,214,1499,Cash on Delivery,New Elijahchester
+121,14-11-2024,Sylvia Welch,Furniture,Wardrobe,6,593,3560,Debit Card,Michaelburgh
+122,17-10-2023,Joyce Jones,Clothing,Sweater,9,829,7458,Debit Card,Petersonhaven
+123,29-06-2024,Michele Cook,Home Appliances,Microwave,9,865,7789,Credit Card,Donaldfurt
+124,11-01-2024,Mark Murray,Books,Non-fiction,7,530,3710,Credit Card,Jordanville
+125,04-05-2024,Joseph Scott,Electronics,Laptop,5,452,2260,Net Banking,Jeffreyburgh
+126,15-11-2023,Alexander Shah,Home Appliances,Air Conditioner,8,61,485,Net Banking,Paulburgh
+127,13-06-2023,Matthew Adams,Home Appliances,Washing Machine,8,801,6412,Debit Card,Ryanport
+128,27-06-2024,Joshua Snyder,Furniture,Table,8,359,2872,Credit Card,Port Devonside
+129,08-01-2025,Ian Santana,Electronics,Tablet,9,925,8321,Cash on Delivery,Port Ellenburgh
+130,09-01-2025,Mary Douglas,Home Appliances,Microwave,1,228,228,Net Banking,Alexandraland
+131,10-10-2024,Paula Collins,Electronics,Smartwatch,9,625,5621,Cash on Delivery,New Megan
+132,21-08-2023,Michael Obrien,Books,Science,8,295,2360,PayPal,North Douglas
+133,09-06-2023,Jennifer Mccullough,Electronics,Smartphone,5,452,2262,Net Banking,Danielberg
+134,12-07-2024,Amy Smith,Books,Non-fiction,8,373,2984,PayPal,Ibarraland
+135,09-08-2024,Lee Bailey,Home Appliances,Vacuum Cleaner,2,312,625,Cash on Delivery,Griffinfort
+136,06-08-2023,Elizabeth Jacobs,Electronics,Headphones,2,372,744,Credit Card,Hendricksland
+137,27-01-2024,Randy Gill,Books,History,10,370,3703,Credit Card,Lopezburgh
+138,21-07-2024,Nicholas Cline,Clothing,Jeans,7,410,2872,Cash on Delivery,Watkinsstad
+139,05-01-2024,Michael Cline,Furniture,Chair,3,991,2972,Debit Card,Richardshire
+140,10-11-2024,Nicholas King,Clothing,Sweater,9,213,1914,Cash on Delivery,East Michaelstad
+141,30-01-2025,Tonya Jimenez,Clothing,Sweater,10,582,5818,PayPal,Torrestown
+142,31-07-2023,Katrina King,Books,Non-fiction,10,736,7356,Credit Card,New Scottstad
+143,15-05-2023,Paul Patterson,Furniture,Sofa,7,832,5821,Cash on Delivery,Longville
+144,20-05-2023,Jennifer Lopez,Clothing,Jacket,8,900,7203,Net Banking,New Stacyshire
+145,02-05-2023,Jason Zamora,Electronics,Laptop,6,723,4340,PayPal,Nelsonborough
+146,12-08-2024,Tammy Jimenez,Books,Technology,5,342,1710,Cash on Delivery,West Jeromeside
+147,23-11-2023,Kevin Malone,Home Appliances,Washing Machine,4,476,1905,PayPal,North Olivia
+148,26-02-2024,Wendy King,Books,Technology,7,753,5268,Cash on Delivery,Port James
+149,31-01-2024,Bruce Wilson,Home Appliances,Microwave,2,159,318,Debit Card,Wrightshire
+150,26-11-2024,John Potter,Books,Non-fiction,8,422,3373,Cash on Delivery,Kristamouth
+151,02-02-2024,Mary Sims,Furniture,Table,4,985,3941,Net Banking,Carpenterfurt
+152,19-03-2025,Jason Chapman,Furniture,Table,3,183,548,Credit Card,Tinaville
+153,31-05-2024,Travis Heath,Clothing,Jeans,7,412,2883,Debit Card,Richardsonchester
+154,11-07-2024,Bobby Clarke,Clothing,T-Shirt,5,945,4727,PayPal,Byrdbury
+155,27-03-2023,Amanda Charles,Furniture,Chair,2,858,1716,Debit Card,New Jameston
+156,16-09-2024,Miguel Thompson,Electronics,Smartphone,1,879,879,Debit Card,Cooperburgh
+157,10-11-2024,Teresa Villanueva,Electronics,Headphones,4,704,2817,Credit Card,New Richardmouth
+158,20-05-2024,Patrick Salazar,Home Appliances,Washing Machine,8,215,1721,Debit Card,West Ryanmouth
+159,21-02-2024,Eddie Carter,Home Appliances,Vacuum Cleaner,3,511,1532,Credit Card,Josephborough
+160,09-06-2023,Jeffrey Sanchez,Electronics,Smartphone,6,364,2181,Cash on Delivery,South Alex
+161,16-02-2025,Stephanie Maynard,Furniture,Chair,2,553,1105,Net Banking,Brittanychester
+162,09-07-2023,Lisa Cox,Home Appliances,Air Conditioner,6,702,4213,Cash on Delivery,Carterbury
+163,31-05-2023,Justin Walker,Furniture,Sofa,10,654,6538,Net Banking,Ryanbury
+164,20-01-2024,Eric Burnett,Furniture,Wardrobe,10,285,2849,Credit Card,Alexandermouth
+165,11-07-2023,Ronald Young,Clothing,Jacket,4,714,2855,PayPal,South Jeffrey
+166,20-03-2025,Mr. Justin Keller,Furniture,Chair,7,80,563,Debit Card,West Adriana
+167,28-03-2023,Lance Bailey,Clothing,Jeans,3,575,1726,PayPal,North Michaelfort
+168,19-08-2023,Sheila Richardson,Books,Science,2,246,491,PayPal,Arnoldside
+169,19-12-2024,Mia Harris,Home Appliances,Vacuum Cleaner,3,966,2897,Debit Card,New Lisa
+170,02-11-2024,Kathryn Erickson,Home Appliances,Refrigerator,7,868,6078,PayPal,Lake Jeffrey
+171,11-11-2024,James Hunter,Electronics,Tablet,10,964,9644,PayPal,Paulton
+172,12-11-2024,Robert Callahan Jr.,Furniture,Wardrobe,2,664,1329,Cash on Delivery,Thorntonberg
+173,07-03-2025,Joseph Trevino,Clothing,Jacket,2,435,869,Credit Card,Shepherdton
+174,02-06-2024,Christopher Hill,Electronics,Laptop,10,129,1292,PayPal,New Brandon
+175,04-11-2023,Elizabeth Hernandez,Furniture,Bed,9,891,8016,Cash on Delivery,South Eddiebury
+176,22-10-2024,Kyle Villanueva,Books,Technology,4,431,1725,Debit Card,Lake Gailberg
+177,14-02-2024,Michael Jones,Clothing,Sweater,5,480,2400,PayPal,Port Chaseberg
+178,22-06-2024,Angie Rogers,Furniture,Sofa,10,158,1583,Credit Card,Michelleville
+179,09-10-2023,Martin Miller,Electronics,Tablet,3,958,2873,Debit Card,Riveraland
+180,06-12-2024,Kayla Johnson,Electronics,Laptop,4,302,1206,PayPal,West Tiffany
+181,18-08-2024,Michael Anderson,Home Appliances,Air Conditioner,8,698,5581,PayPal,Barryhaven
+182,23-02-2024,Randall Bates,Home Appliances,Refrigerator,6,888,5325,PayPal,Lake Heatherstad
+183,19-07-2024,Christina Esparza,Books,Non-fiction,7,904,6329,Cash on Delivery,Dennisshire
+184,26-06-2023,Claire Fuller,Furniture,Bed,1,487,487,PayPal,Edwardstad
+185,16-02-2024,Stephanie Marquez,Books,Technology,5,304,1521,Cash on Delivery,Jennifertown
+186,15-02-2025,John Harris,Home Appliances,Washing Machine,5,807,4034,Debit Card,Port Steveshire
+187,21-02-2025,Paula Martinez,Clothing,Jacket,6,758,4546,Credit Card,Port Amyport
+188,14-04-2024,Autumn Richards,Electronics,Headphones,4,772,3087,Net Banking,South Shaneland
+189,22-08-2024,Dawn Bennett,Electronics,Tablet,10,634,6345,PayPal,Serranoberg
+190,29-01-2025,Amanda James,Electronics,Smartphone,8,116,925,PayPal,North Linda
+191,11-01-2024,Samantha Park,Home Appliances,Vacuum Cleaner,9,120,1080,Net Banking,Kimville
+192,20-09-2023,Austin Vasquez,Electronics,Smartphone,5,214,1070,Cash on Delivery,Scottfort
+193,30-11-2023,Sarah Berry,Furniture,Sofa,3,459,1376,PayPal,West Albert
+194,20-09-2024,Dylan Sanchez,Furniture,Sofa,1,975,975,Debit Card,Lake Steven
+195,03-01-2024,Alicia Ellis,Books,Technology,1,799,799,Credit Card,New David
+196,04-06-2024,Christine Rivera,Books,Non-fiction,6,325,1950,Credit Card,Michaelmouth
+197,02-01-2024,Kristen Shannon,Electronics,Laptop,2,443,887,Debit Card,Moralesborough
+198,17-12-2024,Victoria Moore MD,Books,Non-fiction,3,470,1409,Debit Card,East Jennifershire
+199,29-12-2023,Mrs. Kelly Castro DDS,Furniture,Chair,8,653,5222,Net Banking,Port Jenniferfurt
+200,10-03-2024,Mary West,Books,History,3,826,2477,Net Banking,East Jenniferchester
+201,21-11-2023,Benjamin Benson,Electronics,Smartphone,3,596,1789,Cash on Delivery,Owensbury
+202,15-04-2023,Benjamin Brown,Books,History,10,657,6568,Net Banking,South Peter
+203,04-02-2025,Sarah Evans,Books,Fiction,3,528,1585,PayPal,Geraldchester
+204,10-04-2023,Scott Rivera,Clothing,Jacket,8,151,1208,Debit Card,Gloverborough
+205,20-11-2024,Teresa Larson,Books,Technology,10,86,858,Debit Card,Pettyport
+206,21-01-2024,Katherine Callahan,Furniture,Chair,10,181,1809,Cash on Delivery,East Amy
+207,29-12-2023,Andrew Pineda,Home Appliances,Air Conditioner,1,618,618,Debit Card,New Amberland
+208,13-07-2023,Meghan Davis,Electronics,Tablet,1,913,913,Cash on Delivery,Odonnellfurt
+209,04-12-2023,Nichole Powell,Electronics,Smartphone,2,295,589,PayPal,Mariaberg
+210,06-06-2024,Julie Farmer,Clothing,Sweater,4,865,3458,PayPal,Davisborough
+211,21-06-2024,Jessica West,Books,Non-fiction,9,86,773,Cash on Delivery,North Adam
+212,24-08-2023,Michael Nguyen,Furniture,Wardrobe,6,544,3261,PayPal,West Richard
+213,22-08-2023,Stephen Hale,Electronics,Laptop,6,52,312,Net Banking,Richardsonburgh
+214,28-06-2023,Denise Lee,Books,Non-fiction,9,70,626,PayPal,South Ritamouth
+215,10-07-2024,Cody Barry,Furniture,Wardrobe,9,451,4061,PayPal,Monicaburgh
+216,17-08-2023,Shawn Malone,Books,Science,5,234,1168,Credit Card,Leahview
+217,12-10-2023,Kenneth Sandoval,Furniture,Chair,4,421,1685,Cash on Delivery,Timothystad
+218,24-01-2025,Nicholas Bauer,Electronics,Smartwatch,1,973,973,Debit Card,West Elizabeth
+219,19-09-2023,Albert Valentine,Electronics,Tablet,2,941,1883,Debit Card,Ashleybury
+220,14-07-2023,Gloria Dean,Books,Fiction,6,465,2791,Cash on Delivery,Lake Robertmouth
+221,29-02-2024,Jerry Owen,Furniture,Chair,10,803,8026,PayPal,South Shane
+222,29-09-2024,Jason Rivera,Home Appliances,Air Conditioner,8,318,2547,Cash on Delivery,South John
+223,16-04-2024,Jason Turner,Electronics,Smartphone,6,633,3797,Debit Card,New Aaron
+224,03-10-2024,James Aguilar,Clothing,Jacket,3,871,2614,Credit Card,Cherylbury
+225,13-10-2024,Shelia George,Clothing,Sweater,7,406,2839,Net Banking,Brittneyfort
+226,12-03-2025,Charles Walton,Electronics,Smartphone,9,981,8829,Debit Card,Port Danielton
+227,26-10-2023,Andrea Smith,Home Appliances,Air Conditioner,9,669,6022,Credit Card,Scottborough
+228,08-05-2023,Tammy West,Home Appliances,Washing Machine,4,256,1024,Cash on Delivery,New Charles
+229,30-03-2023,Gary Carter,Books,History,10,557,5573,Net Banking,East Nathanland
+230,21-10-2023,Michael Morris,Home Appliances,Washing Machine,9,563,5065,Debit Card,Charlesshire
+231,15-05-2024,Mark Padilla,Clothing,T-Shirt,9,818,7359,Debit Card,Brandyfurt
+232,13-01-2024,Jonathan Nguyen,Electronics,Smartwatch,7,602,4211,PayPal,Cuevaston
+233,12-06-2023,Olivia Webb,Books,Science,4,404,1616,Credit Card,Petersstad
+234,07-05-2024,Kathryn Flores,Electronics,Laptop,8,940,7517,Net Banking,South Alexfort
+235,01-04-2023,Ryan Kennedy,Home Appliances,Air Conditioner,6,864,5185,Credit Card,Whitemouth
+236,02-03-2024,Michelle Hall,Books,Science,7,193,1353,Cash on Delivery,Lopezberg
+237,10-04-2023,Peggy Case,Books,Non-fiction,7,710,4971,Cash on Delivery,Sandrahaven
+238,02-02-2025,Patricia Clark,Clothing,Jacket,5,718,3590,Debit Card,Dickersonfurt
+239,21-02-2024,William King,Electronics,Smartphone,2,646,1292,Debit Card,Jacksonborough
+240,09-09-2024,Maria Kelly,Books,Non-fiction,7,741,5185,Debit Card,Hilltown
+241,12-04-2023,Samuel Medina,Furniture,Chair,4,145,582,Credit Card,Port Andreafort
+242,18-11-2024,Joseph Cowan,Clothing,Sweater,4,729,2917,Cash on Delivery,Jeffreyside
+243,12-03-2025,Steve Wright,Books,History,4,370,1478,Credit Card,West Benjaminhaven
+244,15-10-2023,Vickie Keller,Home Appliances,Vacuum Cleaner,10,220,2205,Cash on Delivery,East Shawnafurt
+245,30-07-2024,Rebecca Garcia,Electronics,Smartwatch,10,188,1882,Net Banking,Kellimouth
+246,09-01-2024,Michael Haynes,Books,Science,10,595,5949,Debit Card,Christinatown
+247,18-12-2024,Dawn Davis,Books,Science,3,609,1826,PayPal,Taylorbury
+248,16-01-2025,Mark Day,Home Appliances,Vacuum Cleaner,1,114,114,PayPal,North Sarahbury
+249,04-05-2024,Cody Keith,Furniture,Sofa,5,888,4442,Cash on Delivery,South Nicolestad
+250,23-12-2024,Rebecca Morgan,Home Appliances,Washing Machine,6,244,1465,Cash on Delivery,South Samuel
+251,29-09-2023,William Buchanan,Home Appliances,Washing Machine,1,555,555,Net Banking,Phillipfort
+252,19-06-2024,Christian Olson,Books,History,1,139,139,Credit Card,West Johnborough
+253,19-07-2023,Edward Obrien,Home Appliances,Washing Machine,2,486,971,Credit Card,Amandashire
+254,25-04-2024,Cathy Avila,Books,Technology,4,653,2611,Debit Card,Jessicabury
+255,31-01-2024,Brittney Phillips,Clothing,T-Shirt,3,853,2560,Net Banking,Saundersport
+256,24-01-2024,Steven Brown,Home Appliances,Washing Machine,1,592,592,Net Banking,Fernandoville
+257,29-07-2024,Joel Austin DDS,Furniture,Bed,5,103,516,Debit Card,New David
+258,28-02-2024,Kevin Fuller,Books,Technology,9,560,5040,PayPal,South Alan
+259,14-12-2024,Jeremy Garcia,Electronics,Tablet,9,814,7323,Credit Card,Dannyburgh
+260,17-03-2025,Judy Silva,Books,Technology,4,700,2798,Cash on Delivery,Teresastad
+261,16-06-2024,Jose Welch,Books,Fiction,9,842,7574,Credit Card,Lake Christophermouth
+262,05-05-2023,Susan Smith,Electronics,Smartwatch,1,305,305,Cash on Delivery,East Christianshire
+263,04-02-2025,Willie Carter,Electronics,Smartphone,9,92,826,Debit Card,Port Michealport
+264,24-09-2023,Ana Boyd,Books,History,2,818,1637,Cash on Delivery,North Michaelmouth
+265,14-03-2025,Ashley Savage,Furniture,Table,10,250,2504,Debit Card,Cameronbury
+266,02-09-2023,Eric Walker,Home Appliances,Air Conditioner,9,676,6082,Debit Card,New Brandy
+267,18-01-2024,Jennifer Wilson,Home Appliances,Refrigerator,6,793,4756,Net Banking,Hamptontown
+268,28-07-2024,Gina Parks,Books,Science,5,447,2234,Debit Card,Lake Nicholasbury
+269,21-12-2023,Joel Barker,Furniture,Wardrobe,6,939,5637,Cash on Delivery,East Nicholasmouth
+270,20-05-2023,Jason Hardy,Books,Technology,1,681,681,PayPal,West Jacobborough
+271,13-02-2024,Haley Harrington,Books,Science,4,302,1207,Cash on Delivery,Weeksland
+272,23-12-2024,Amber Williams,Electronics,Headphones,7,482,3376,Credit Card,Shawfort
+273,18-04-2024,Randy Smith,Books,Technology,6,861,5165,Cash on Delivery,Karaville
+274,01-05-2023,Kevin Morales,Clothing,Sweater,7,52,363,Credit Card,Port Lisa
+275,03-01-2025,Kenneth Baker,Home Appliances,Microwave,8,128,1026,Cash on Delivery,North Brandon
+276,02-08-2023,Dave Grimes,Electronics,Laptop,6,137,822,Debit Card,New Gabrielport
+277,05-12-2024,Theresa Carlson,Books,Science,4,840,3359,Cash on Delivery,East Brettville
+278,07-04-2024,Anne Johnson,Books,History,6,430,2580,Net Banking,Lake Heidi
+279,05-07-2024,Elizabeth Reyes,Clothing,Jacket,5,76,381,Debit Card,West Georgeville
+280,10-01-2025,Priscilla Phillips,Home Appliances,Washing Machine,9,923,8305,PayPal,Brandonhaven
+281,17-09-2023,Aaron Avila,Furniture,Sofa,9,241,2166,Debit Card,South Kayla
+282,10-11-2024,Karen Beck,Books,Non-fiction,2,440,880,Cash on Delivery,South Jeffreystad
+283,03-11-2024,James Cole,Home Appliances,Washing Machine,7,356,2491,Cash on Delivery,East Wandaville
+284,20-12-2024,Mark Thompson,Books,Fiction,7,964,6748,PayPal,Garciahaven
+285,05-07-2023,Jennifer Armstrong,Electronics,Laptop,5,727,3636,PayPal,West Andrewchester
+286,08-11-2023,Jennifer Bond,Books,Fiction,1,95,95,Cash on Delivery,Wrightburgh
+287,05-02-2025,Amanda Lee,Furniture,Wardrobe,10,313,3125,Cash on Delivery,Ibarraville
+288,31-10-2023,Stephanie Edwards,Clothing,T-Shirt,4,185,740,PayPal,Mitchellchester
+289,17-10-2024,Jeffrey Cooper,Books,Technology,3,757,2271,Net Banking,Port John
+290,06-04-2023,Mrs. Michelle Smith,Electronics,Smartphone,6,408,2447,PayPal,West Adammouth
+291,11-04-2024,Isaac Duncan,Clothing,Sweater,3,846,2538,PayPal,Russellburgh
+292,02-11-2023,James Glover,Books,History,10,507,5068,Debit Card,Port Timothychester
+293,12-12-2023,Donald Young,Electronics,Smartwatch,7,952,6667,Debit Card,West Sarah
+294,01-05-2024,Elaine Young,Books,Non-fiction,6,257,1543,Debit Card,Carolinefurt
+295,01-03-2024,Anthony Knox,Electronics,Smartphone,3,60,179,Credit Card,East Marcofort
+296,04-03-2025,Jessica Crawford,Furniture,Bed,9,945,8502,Cash on Delivery,Kimberlyborough
+297,02-10-2023,Ashley Diaz,Home Appliances,Air Conditioner,5,242,1212,Cash on Delivery,North Kellyhaven
+298,25-11-2023,Frank Tyler DVM,Clothing,Jacket,8,245,1962,PayPal,Hollyburgh
+299,14-09-2023,Vincent Mcfarland,Furniture,Wardrobe,1,738,738,Cash on Delivery,Port Linda
+300,06-05-2023,Amanda Spence,Books,History,1,337,337,PayPal,Savannahview
+301,25-02-2024,Jeremy Davidson,Furniture,Chair,7,284,1986,Cash on Delivery,Davidfort
+302,16-07-2024,Sandra Alvarez,Electronics,Smartwatch,7,879,6150,Cash on Delivery,Jeffreyville
+303,04-01-2024,Scott Washington,Home Appliances,Microwave,10,825,8249,Debit Card,Stacyfort
+304,12-06-2023,Matthew Ellis,Clothing,Jeans,4,358,1431,PayPal,Brayberg
+305,26-03-2024,Melissa Johnson,Furniture,Table,2,680,1361,Net Banking,New Philipville
+306,04-12-2023,Kevin Smith,Books,Fiction,5,404,2018,Debit Card,Barnestown
+307,17-02-2024,Deanna Mitchell,Furniture,Wardrobe,9,161,1448,Cash on Delivery,Vazquezshire
+308,20-07-2024,Brittany Thomas,Home Appliances,Washing Machine,2,967,1934,Debit Card,Kevinshire
+309,01-05-2024,Kelly Farley,Clothing,Sweater,5,704,3518,PayPal,Lake Brent
+310,02-04-2024,Sandra Graves,Clothing,T-Shirt,5,430,2152,PayPal,North Jennifer
+311,13-06-2024,Megan King,Furniture,Table,6,988,5930,Credit Card,Thomaschester
+312,09-04-2023,Katherine Swanson,Electronics,Smartwatch,9,567,5100,Net Banking,West Sheilaton
+313,23-09-2024,Laura Alexander,Electronics,Smartwatch,6,672,4034,Net Banking,West Ashleyville
+314,21-05-2023,Maria Bowers,Furniture,Chair,5,382,1908,Debit Card,East Franklinchester
+315,06-03-2024,David Barrett,Electronics,Smartwatch,6,875,5253,Net Banking,Williamstad
+316,01-08-2023,William Perez,Home Appliances,Air Conditioner,5,517,2587,PayPal,West Michaelview
+317,01-03-2025,Eric Stuart,Clothing,Jeans,9,388,3492,Net Banking,Hughesmouth
+318,14-04-2024,Nicole Gray,Books,Science,7,127,889,Cash on Delivery,Lake Deborahshire
+319,31-10-2023,Kelsey Cruz,Clothing,Sweater,10,469,4690,Debit Card,Maryfurt
+320,26-12-2024,Teresa Sanders,Home Appliances,Air Conditioner,8,377,3016,Debit Card,Amandafort
+321,04-07-2024,Patricia Green,Clothing,Shoes,8,619,4956,Credit Card,Port Wanda
+322,01-02-2024,Gene Mosley,Clothing,Sweater,1,468,468,PayPal,West Lisa
+323,30-08-2023,James Stein,Electronics,Headphones,9,853,7681,Credit Card,Port Dylanfort
+324,21-10-2024,Curtis Mitchell,Books,Technology,5,781,3907,PayPal,Davisside
+325,30-09-2023,Omar Shepherd,Furniture,Wardrobe,6,268,1609,PayPal,Davidhaven
+326,26-03-2023,Michele Ho,Home Appliances,Refrigerator,4,214,854,PayPal,Wintersmouth
+327,11-03-2025,Catherine Mendez,Furniture,Chair,4,608,2434,Net Banking,New Joshuaberg
+328,12-03-2025,Amanda Cruz,Home Appliances,Microwave,2,286,572,Cash on Delivery,Millerberg
+329,16-02-2024,Cynthia Rios,Books,History,4,569,2277,Debit Card,West Matthewchester
+330,13-10-2024,Michael Hudson PhD,Books,Fiction,3,813,2439,Net Banking,Davidville
+331,12-11-2024,Jose Hodges,Furniture,Bed,7,896,6271,Credit Card,Erikland
+332,20-11-2023,Heather Kerr,Furniture,Bed,10,865,8645,Cash on Delivery,New Cristinabury
+333,17-05-2023,Daniel Hutchinson,Books,Science,8,247,1973,Credit Card,Lake Amyport
+334,14-10-2024,Cassie Dean,Furniture,Bed,4,823,3293,Debit Card,Johnmouth
+335,14-04-2023,Rhonda Hernandez,Clothing,T-Shirt,10,244,2443,Credit Card,Port Michaelmouth
+336,17-08-2023,Susan Perez,Furniture,Bed,2,588,1176,Debit Card,Jonathanton
+337,08-04-2023,Zachary Glass DDS,Books,Fiction,6,976,5857,Debit Card,West Jerryland
+338,14-11-2024,Christopher Steele,Home Appliances,Microwave,7,778,5449,Cash on Delivery,South Angelaview
+339,17-11-2023,Joann Sellers,Home Appliances,Washing Machine,9,199,1790,Debit Card,Meganville
+340,20-06-2024,Deborah Murphy,Clothing,Shoes,6,126,756,Net Banking,Davidview
+341,18-05-2024,Caitlin Mendez DDS,Electronics,Smartphone,7,717,5017,Debit Card,South Tammy
+342,28-11-2023,Joseph Bryan,Home Appliances,Refrigerator,4,649,2597,Credit Card,Lake Molly
+343,21-07-2023,Kaitlyn Robbins,Books,History,8,237,1895,Debit Card,Nolanville
+344,26-02-2025,Rachel Walker,Furniture,Table,9,799,7191,Net Banking,Berryport
+345,02-06-2024,Marissa Day,Home Appliances,Air Conditioner,8,129,1032,Credit Card,Cherylmouth
+346,11-08-2023,Christian Williams,Furniture,Bed,2,922,1845,Credit Card,Elizabethmouth
+347,17-04-2023,Jessica Chapman,Furniture,Wardrobe,6,298,1788,Credit Card,Rossmouth
+348,22-09-2023,Brett Adams,Electronics,Headphones,8,936,7486,Cash on Delivery,Port Rachaelville
+349,12-06-2023,Christian Lee III,Books,Technology,1,580,580,Credit Card,North Gregoryland
+350,23-08-2024,Roberto Brown,Furniture,Wardrobe,9,990,8908,PayPal,North Kyleburgh
+351,20-11-2023,Aaron Lutz,Electronics,Laptop,4,997,3990,PayPal,Mollyberg
+352,05-10-2024,Michelle Gonzalez,Furniture,Chair,6,404,2425,Debit Card,Reyesberg
+353,02-05-2023,Matthew Holt,Electronics,Laptop,7,269,1882,Net Banking,New Kennethhaven
+354,14-04-2024,Melissa Powers,Furniture,Wardrobe,1,120,120,Debit Card,Michelleton
+355,24-02-2024,Nathan Strong,Books,Science,2,715,1431,Debit Card,South Nicholas
+356,16-06-2024,Christopher Jones,Clothing,Jacket,1,662,662,PayPal,Barronville
+357,19-12-2023,Robert Rhodes,Books,Science,5,635,3177,Credit Card,Lake Michael
+358,01-10-2023,Jennifer Cox,Clothing,T-Shirt,6,96,576,PayPal,New Martha
+359,28-04-2023,Danielle Greer,Books,Fiction,7,82,577,Credit Card,Ryanfurt
+360,19-11-2024,Suzanne Kelly,Books,Fiction,2,381,762,Credit Card,South Edwardview
+361,17-11-2024,Kevin Barton,Home Appliances,Vacuum Cleaner,2,432,863,Credit Card,Powellton
+362,01-10-2023,Sandra Mccarthy,Home Appliances,Refrigerator,1,688,688,PayPal,Comptonmouth
+363,26-05-2024,Amanda Lee,Clothing,Shoes,6,283,1700,Net Banking,Lynnton
+364,11-02-2025,Arthur Turner,Electronics,Tablet,2,257,513,Net Banking,New Paul
+365,12-12-2023,Ashley Phillips,Clothing,Jacket,7,507,3546,Net Banking,Williamtown
+366,13-05-2024,Michele Brown,Home Appliances,Air Conditioner,3,539,1617,Net Banking,Kaylaborough
+367,02-09-2023,Cheryl Norris,Furniture,Table,9,465,4184,PayPal,Johnbury
+368,17-05-2024,Joseph Webster,Furniture,Table,10,501,5014,PayPal,New Hollymouth
+369,27-05-2024,Erin Rowe,Home Appliances,Air Conditioner,7,708,4953,Debit Card,Dannychester
+370,30-11-2024,Gregory Strong,Electronics,Tablet,9,900,8097,Credit Card,Jasonville
+371,25-09-2023,Joshua Moran,Furniture,Sofa,2,877,1754,Credit Card,Lake Kelly
+372,14-09-2023,Brittney Sherman,Clothing,Shoes,3,156,469,Net Banking,Seantown
+373,16-09-2024,Lindsay Patrick,Electronics,Tablet,9,110,994,Net Banking,Matthewsland
+374,14-06-2024,Shannon Barnes,Electronics,Laptop,6,861,5163,Credit Card,Kellyshire
+375,22-03-2023,Amanda Blevins,Clothing,T-Shirt,5,482,2410,Debit Card,Jacobshire
+376,21-07-2024,Henry Owens,Clothing,Shoes,3,394,1183,Net Banking,Anthonyville
+377,11-04-2023,Jacob King,Books,Non-fiction,2,777,1554,Credit Card,North Daniel
+378,14-05-2023,David Jensen,Furniture,Wardrobe,4,429,1716,PayPal,Charlesshire
+379,23-03-2023,Tonya Peterson,Books,Science,8,911,7288,Debit Card,New Emilyfurt
+380,19-11-2024,Jeffrey Baxter,Electronics,Smartphone,9,951,8563,Credit Card,Williamshaven
+381,06-06-2023,Jeffery Nguyen,Electronics,Laptop,8,790,6316,PayPal,Bethanyfort
+382,18-03-2024,Thomas Anderson,Electronics,Laptop,2,899,1798,Net Banking,Jessicaland
+383,28-03-2024,Becky White,Home Appliances,Vacuum Cleaner,8,423,3384,Net Banking,Carlview
+384,23-07-2024,Melanie Cunningham,Clothing,T-Shirt,1,446,446,PayPal,Hendrickston
+385,24-12-2024,Danielle Mckinney,Home Appliances,Air Conditioner,10,60,605,Debit Card,West Patricia
+386,03-01-2025,Brooke Reynolds,Books,Science,5,676,3380,Debit Card,Jamesborough
+387,31-03-2024,Caitlin Reynolds PhD,Books,Fiction,10,391,3912,Cash on Delivery,South Morgan
+388,07-04-2023,Jacob Martin,Furniture,Chair,4,906,3624,PayPal,Wellsborough
+389,07-09-2024,Lauren Powell,Electronics,Headphones,2,334,668,PayPal,Cynthiaport
+390,01-10-2024,Yolanda Bryant,Home Appliances,Washing Machine,9,275,2473,Credit Card,Jeanborough
+391,01-09-2023,Katherine Richards,Electronics,Headphones,1,357,357,Credit Card,West Ericfort
+392,27-01-2024,Michael Pruitt,Clothing,Jeans,9,209,1879,Credit Card,Lake Peter
+393,19-10-2023,Kim Monroe,Clothing,Sweater,4,463,1853,Cash on Delivery,North Mallory
+394,13-03-2024,Jennifer Dennis,Clothing,Jacket,7,964,6748,Credit Card,Garzamouth
+395,12-06-2024,Brooke Brown,Books,History,1,724,724,Net Banking,Delgadochester
+396,13-04-2024,Gregory Prince,Home Appliances,Air Conditioner,1,401,401,Cash on Delivery,New Shane
+397,06-04-2023,Joseph Boyle,Furniture,Table,5,716,3579,Credit Card,South Jeremy
+398,23-12-2023,Aaron Hayes,Electronics,Laptop,2,897,1795,PayPal,North Madelineberg
+399,05-02-2025,Kimberly Russell,Books,Technology,7,778,5443,Debit Card,Joneshaven
+400,15-09-2023,Janice Price,Books,Fiction,5,348,1741,Credit Card,Port Kevin
+401,02-02-2025,Gilbert Clark,Electronics,Headphones,4,203,812,Debit Card,Burtonland
+402,15-03-2024,Victor Torres,Clothing,Jeans,1,783,783,PayPal,East Jenna
+403,09-02-2025,Nicole Sampson,Electronics,Laptop,4,919,3674,Cash on Delivery,Sarahton
+404,29-06-2024,Robert Smith,Furniture,Wardrobe,4,310,1241,Cash on Delivery,Port Wendy
+405,24-05-2024,David Rowe,Electronics,Headphones,8,419,3355,Net Banking,Christieville
+406,26-02-2025,Mark Watson DVM,Furniture,Bed,4,825,3299,Debit Card,East Michael
+407,07-02-2024,Stephen Bradley,Books,History,1,891,891,Net Banking,Mitchellhaven
+408,20-09-2023,Alexander Long,Clothing,Sweater,5,412,2061,Debit Card,Watsonland
+409,06-08-2023,David Norman PhD,Home Appliances,Microwave,6,277,1660,Credit Card,East Maryton
+410,31-03-2024,James Smith,Furniture,Bed,7,381,2664,Net Banking,Williamston
+411,23-01-2025,Christina Price,Books,Fiction,8,981,7844,Net Banking,East Victoriachester
+412,14-02-2025,Ian Ochoa,Electronics,Tablet,10,860,8598,Credit Card,Michaelville
+413,02-08-2024,Timothy Thompson,Furniture,Wardrobe,8,645,5162,Net Banking,Lake Rhondaport
+414,11-07-2023,Bryan Baxter,Electronics,Laptop,7,811,5678,Credit Card,Robertfort
+415,05-01-2025,Teresa Fuller,Furniture,Chair,1,339,339,Debit Card,North Joshua
+416,31-05-2024,Candice Fuller,Home Appliances,Air Conditioner,8,999,7992,PayPal,Brownville
+417,25-05-2024,Melissa Cooper,Electronics,Headphones,5,627,3136,Cash on Delivery,Lake Melissa
+418,20-01-2025,Elizabeth Hernandez,Home Appliances,Vacuum Cleaner,4,819,3277,Net Banking,Brianland
+419,04-10-2023,John Dean,Furniture,Sofa,5,439,2194,PayPal,West Craig
+420,19-05-2024,Wesley Reed,Books,History,1,71,71,Cash on Delivery,East Laura
+421,11-06-2024,Thomas Taylor,Home Appliances,Air Conditioner,8,440,3521,Net Banking,South Patriciabury
+422,11-09-2023,Frank Lopez,Furniture,Table,10,964,9640,Debit Card,North Henrybury
+423,16-09-2024,Sydney Terrell,Furniture,Table,1,112,112,Cash on Delivery,Davisport
+424,11-08-2024,Jose Gonzalez,Home Appliances,Refrigerator,3,579,1737,Debit Card,Patelport
+425,07-09-2023,Sarah Stafford,Furniture,Wardrobe,6,702,4211,Credit Card,West Reginald
+426,17-10-2023,Brian Hayes,Books,Technology,1,662,662,Debit Card,Camachomouth
+427,21-01-2025,Michael Kennedy,Electronics,Laptop,2,226,453,Credit Card,Davidshire
+428,24-02-2025,Megan Miller,Books,Fiction,6,312,1870,Debit Card,Ericland
+429,11-11-2024,Randall Davis,Furniture,Wardrobe,9,611,5498,Net Banking,Jacksonberg
+430,24-08-2023,Christopher Nixon,Clothing,Sweater,4,813,3252,PayPal,East Jonathanfurt
+431,06-04-2023,Tammy Anderson,Books,Fiction,6,61,366,Credit Card,Bakerburgh
+432,22-06-2023,Antonio Edwards,Books,History,6,590,3539,Debit Card,East Seanshire
+433,26-02-2024,Rebecca Collins,Furniture,Chair,1,540,540,Net Banking,Lake Shelby
+434,17-02-2024,Shane Robinson,Home Appliances,Microwave,9,836,7521,Credit Card,New Matthew
+435,29-04-2023,Margaret Williams,Electronics,Smartwatch,9,662,5959,PayPal,Kaylaborough
+436,30-08-2023,Kaitlin Pena,Furniture,Chair,5,112,561,Debit Card,Lake Donnaton
+437,10-04-2023,Wendy Brock,Books,History,2,658,1316,Net Banking,West Ronaldfort
+438,25-03-2023,Amanda Neal,Furniture,Chair,4,919,3674,Cash on Delivery,South Kenneth
+439,16-06-2024,Diana Heath,Home Appliances,Washing Machine,4,290,1161,Net Banking,South Selenaside
+440,15-10-2024,Eric Wilson,Furniture,Wardrobe,8,323,2582,Credit Card,Jonesside
+441,07-07-2023,Carol Johnson,Furniture,Bed,3,613,1838,Debit Card,Scottmouth
+442,10-10-2024,Brad Miller,Books,Fiction,6,377,2262,Credit Card,Moralesmouth
+443,03-06-2023,Carolyn Nguyen,Furniture,Bed,5,955,4774,PayPal,Cruzland
+444,10-02-2025,Andrew Smith,Furniture,Chair,3,585,1754,Cash on Delivery,Taylorberg
+445,08-04-2024,Brittney Pena,Electronics,Laptop,10,53,529,Credit Card,Barnestown
+446,05-09-2023,Bryan Blackwell,Furniture,Sofa,7,395,2767,Credit Card,Tammybury
+447,23-05-2024,Phillip Mahoney,Clothing,Shoes,10,64,641,Cash on Delivery,Garciaview
+448,21-12-2024,Stephanie Miller,Furniture,Sofa,3,57,170,Credit Card,West Jameshaven
+449,04-07-2024,Craig Brewer,Books,Non-fiction,8,79,631,PayPal,South Kimville
+450,12-06-2023,Adam Lewis,Home Appliances,Air Conditioner,3,202,606,Credit Card,Brownbury
+451,29-05-2023,Joy Shepard,Electronics,Smartphone,6,203,1221,Cash on Delivery,Edwardsside
+452,03-09-2024,Laurie Ruiz DDS,Clothing,Shoes,6,640,3841,Debit Card,Lake Amanda
+453,21-10-2023,Hannah Patel,Furniture,Table,3,942,2826,Net Banking,Port Tanya
+454,18-01-2024,Jane Hoffman,Electronics,Smartwatch,10,521,5209,Debit Card,New Sethton
+455,26-02-2024,Jamie Alexander,Books,Fiction,3,268,804,Net Banking,Stephanieside
+456,18-08-2023,Beverly Cook,Furniture,Bed,4,170,678,Credit Card,South Jessicashire
+457,12-10-2023,Mrs. Whitney Gilbert,Electronics,Smartwatch,8,686,5486,Cash on Delivery,Josephside
+458,02-09-2023,Debbie Russell,Furniture,Bed,4,145,578,PayPal,New Jordanton
+459,13-02-2024,Alicia Shepard,Clothing,Shoes,2,991,1982,Net Banking,Jacobsmouth
+460,23-03-2024,Joel Dixon,Books,Non-fiction,5,336,1682,PayPal,South Douglas
+461,05-10-2023,Adrienne Garner,Home Appliances,Air Conditioner,4,632,2530,Net Banking,North Danielle
+462,31-01-2024,Jonathan Beasley,Home Appliances,Vacuum Cleaner,4,853,3413,Credit Card,Nicholetown
+463,08-11-2024,Brandi Bell,Electronics,Smartphone,4,143,572,Cash on Delivery,New Michaelbury
+464,19-05-2023,Deborah Lamb,Home Appliances,Washing Machine,10,797,7967,Cash on Delivery,Port Janice
+465,22-04-2023,Linda Sullivan,Clothing,Sweater,9,919,8268,Net Banking,Port Michaelashire
+466,02-04-2023,Cheryl Wilson,Books,Fiction,4,221,886,Debit Card,West Ashley
+467,23-09-2024,Mrs. Kristina Bradshaw,Furniture,Bed,1,331,331,PayPal,Jamesbury
+468,22-05-2024,Andrew Bowman,Furniture,Table,4,168,674,Credit Card,Sandersview
+469,12-09-2023,Valerie Morgan,Clothing,Jacket,2,239,478,Debit Card,North Brittany
+470,27-11-2024,Kristine Golden,Electronics,Tablet,7,558,3909,Net Banking,Lake Andrew
+471,29-06-2023,Holly Williams,Home Appliances,Refrigerator,1,234,234,Debit Card,Christopherview
+472,23-05-2023,Rita Smith,Clothing,Shoes,10,506,5058,PayPal,West Johnview
+473,29-06-2023,Sara Gonzalez,Home Appliances,Microwave,2,808,1615,Debit Card,Ramosside
+474,23-06-2024,Katie Garcia,Clothing,Jacket,10,348,3481,Credit Card,Jerrymouth
+475,09-11-2024,Brian Gray,Clothing,T-Shirt,6,584,3503,Debit Card,West Michele
+476,16-09-2024,Vicki Mccoy,Home Appliances,Refrigerator,1,851,851,Net Banking,New Kenneth
+477,22-10-2023,Mr. Daniel Jimenez,Books,Science,8,264,2108,Cash on Delivery,East Jerry
+478,31-01-2025,Jonathan Johnson,Electronics,Tablet,2,73,145,Debit Card,Suzanneville
+479,25-05-2023,Blake Hall,Clothing,Shoes,7,498,3488,Debit Card,Jacksonhaven
+480,04-05-2024,Louis Johnson,Books,History,10,497,4970,Debit Card,South Joshuastad
+481,21-04-2023,Stephanie Myers,Clothing,Sweater,6,169,1012,Cash on Delivery,Darrelltown
+482,01-12-2023,Shannon Hamilton DVM,Clothing,Shoes,2,596,1192,Debit Card,Port Paul
+483,14-01-2024,Derek Gould,Furniture,Chair,9,806,7252,Cash on Delivery,Cervanteschester
+484,06-09-2023,Heather Burgess,Clothing,T-Shirt,4,581,2325,Cash on Delivery,East Andrew
+485,07-01-2024,Teresa Garcia,Electronics,Headphones,2,332,665,Credit Card,Port Jill
+486,24-11-2024,Robin Floyd,Clothing,Jeans,6,726,4359,Cash on Delivery,Espinozamouth
+487,13-08-2023,Audrey Barton,Furniture,Bed,7,505,3534,Net Banking,North Charles
+488,03-07-2023,Katrina Harris,Furniture,Chair,1,288,288,PayPal,Michelleberg
+489,24-12-2024,Brandon Davis,Electronics,Headphones,4,259,1038,Credit Card,Cooperstad
+490,23-07-2023,Clinton Mcdaniel,Home Appliances,Microwave,2,388,775,Debit Card,West Christopher
+491,19-07-2023,George Johnson,Clothing,Jeans,5,977,4884,Net Banking,South Kristinview
+492,06-07-2024,Jennifer Ramirez,Clothing,Shoes,2,741,1483,Cash on Delivery,West Madisonmouth
+493,09-08-2024,Isaac Weaver,Home Appliances,Washing Machine,1,729,729,PayPal,Lake Amandaport
+494,26-06-2024,William Martinez,Furniture,Bed,2,747,1495,PayPal,North Janet
+495,05-03-2025,Ann Brown,Electronics,Tablet,8,489,3908,Cash on Delivery,Johnsonton
+496,28-10-2024,Ronald Page,Furniture,Chair,1,669,669,Credit Card,Taylorshire
+497,08-08-2024,Benjamin Ramos,Electronics,Laptop,7,676,4733,Credit Card,Kristifort
+498,27-12-2024,Kelly Marshall,Furniture,Wardrobe,10,409,4087,Credit Card,Webbshire
+499,23-04-2024,Michael Neal,Clothing,Sweater,10,300,2998,Debit Card,South Michael
+500,13-11-2024,David Ray,Furniture,Chair,4,922,3688,Debit Card,New Alyssa
